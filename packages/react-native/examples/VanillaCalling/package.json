@@ -10,13 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-community/async-storage": "^1.9.0",
+    "@react-native-async-storage/async-storage": "^1.15.5",
     "@signalwire/react-native": "^1.0.2",
-    "react": "^16.13.1",
-    "react-native": "^0.62.2",
-    "react-native-incall-manager": "^3.2.7",
+    "react": "16.13.1",
+    "react-native": "0.63.0",
+    "react-native-incall-manager": "^3.3.0",
     "react-native-vector-icons": "^6.6.0",
-    "react-native-webrtc": "^1.75.3"
+    "react-native-webrtc": "^1.89.3"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
